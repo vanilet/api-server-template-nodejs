@@ -1,3 +1,8 @@
+/**
+ * @fileoverview Expressjs application entrypoint.
+ * @author Cheol-Min Kim <cheolminkim@vanilet.pe.kr>
+ * @license MIT
+ */
 import express from "express";
 
 const app: express.Application = express();

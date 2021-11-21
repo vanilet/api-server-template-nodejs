@@ -1,3 +1,8 @@
+/**
+ * @fileoverview Main entry point for the application.
+ * @author Cheol-Min Kim <cheolminkim@vanilet.pe.kr>
+ * @license MIT
+ */
 import { readFileSync } from "fs"; 'fs';
 import app from "./app";
 import * as http from "http";
